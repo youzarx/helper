@@ -23,9 +23,9 @@ client.on('ready', () => {
 });
 
 
-const voiceChannelId = '';
-const staffChannelID = '';
-const staffRoleID = '';
+const voiceChannelId = '1236501349471092746';
+const staffChannelID = '1240106213946167368';
+const staffRoleID = '1236493474610544691';
 const audioFilePath = './support.mp3'; 
 
 
